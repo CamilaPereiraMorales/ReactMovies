@@ -1,0 +1,15 @@
+.sidenavContainer{
+    color: white !important;
+    background-color:lightseagreen;
+    height:1700px;
+    width: 6em;;
+    float: left;
+    margin-top: -20px;
+    font-size: 2em;;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
